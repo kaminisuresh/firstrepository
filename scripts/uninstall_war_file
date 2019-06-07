@@ -1,3 +1,3 @@
-rm -rf /var/lib/tomcat7/webapps/SampleWebApp.war
-rm -rf /var/lib/tomcat7/webapps/SampleWebApp 
+rm -rf /var/lib/tomcat7/webapps/javaee7-simple-sample.war
+rm -rf /var/lib/tomcat7/webapps/javaee7-simple-sample 
 
