@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 
 files:
-  - source: /javaee7-simple-sample.war
+  - source: /SampleWebApp.war
     destination: /var/lib/tomcat7/webapps
 hooks:
   ApplicationStop:
