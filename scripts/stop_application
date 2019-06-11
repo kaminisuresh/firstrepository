@@ -1,1 +1,1 @@
-curl –user tomcat:tomcat http://ec2-34-213-99-59.us-west-2.compute.amazonaws.com:8080/manager/text/stop?path=/SampleWebApp
+curl –user tomcat:tomcat http://ec2-54-202-194-185.us-west-2.compute.amazonaws.com:8080/manager/text/stop?path=/SampleWebApp
