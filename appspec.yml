@@ -3,7 +3,7 @@ os: linux
 
 files:
   - source: /SampleWebApp.war
-    destination: /usr/share/tomcat/webapps
+    destination: /var/lib/tomcat7/webapps
 hooks:
   ApplicationStop:
     - location: scripts/stop_application
